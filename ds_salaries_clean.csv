@@ -8,12 +8,12 @@ Working_Year,Designation,Experience,Employment_Status,Employee_Location,Company_
 2020,Lead Data Scientist,Senior,FT,US,S,100,181418.0
 ,Data Scientist,Mid,FT,HU,L,50,34121.0
 2020,Business Data Analyst,Mid,FT,US,L,128903.0
-2020,Lead Data Engineer,Senior,FT,NZ,S,50,119354.0
+,Lead Data Engineer,Senior,FT,NZ,S,50,119354.0
 2020,Data Scientist,Entry,FT,FR,S,0,49003.0
 2020,Data Scientist,Mid,FT,IN,L,0,38653.0
-2020,Data Scientist,Entry,FT,FR,0,38113.0
+,Data Scientist,Entry,FT,FR,0,38113.0
 2020,Lead Data Analyst,Mid,FT,US,L,100,83071.0
-2020,Data Analyst,Mid,FT,US,L,100,81161.0
+,Data Analyst,Mid,FT,US,L,100,81161.0
 2020,Data Analyst,Mid,FT,PK,L,50,7639.0
 2020,Data Engineer,Entry,FT,JP,S,100,39806.0
 2020,Big Data Engineer,Senior,FT,PL,S,100,108896.0
@@ -28,34 +28,34 @@ Working_Year,Designation,Experience,Employment_Status,Employee_Location,Company_
 2020,Research Scientist,Entry,FT,NL,L,50,40103.0
 2020,Data Engineer,Senior,FT,MX,S,0,31997.0
 2020,Business Data Analyst,Entry,CT,US,L,100,95483.0
-2020,Machine Learning Manager,Senior,FT,CA,L,50,111815.0
+2020,,Senior,FT,CA,L,50,111815.0
 2020,Data Engineering Manager,Mid,FT,DE,S,100,56625.0
 2020,Big Data Engineer,Entry,FT,US,L,100,66838.0
-2020,Data Scientist,Senior,FT,GR,L,100,65337.0
+,Data Scientist,Senior,FT,GR,L,100,65337.0
 2020,Research Scientist,Mid,FT,US,M,0,429675.0
 2020,Data Analyst,Mid,FT,FR,L,50,44647.0
 2020,Data Engineer,Mid,FT,AT,L,50,70782.0
-2020,Data Science Consultant,Mid,FT,US,L,100,98348.0
+2020,,Mid,FT,US,L,100,98348.0
 2020,Machine Learning Engineer,Entry,FT,US,L,50,238708.0
 2020,Data Analyst,Entry,FT,NG,S,100,9548.0
 2020,Machine Learning Engineer,Entry,FT,US,S,100,131767.0
 2020,Data Scientist,Mid,FT,PH,S,100,43693.0
 2020,Data Engineering Manager,Executive,FT,ES,L,50,76227.0
-2020,Machine Learning Infrastructure Engineer,Mid,FT,PT,M,0,47914.0
+2020,,Mid,FT,PT,M,,47914.0
 2020,Data Engineer,Mid,FT,US,L,100,101212.0
-2020,Data Engineer,Mid,FT,GB,L,50,107774.0
+2020,Data Engineer,,FT,GB,L,50,107774.0
 2020,ML Engineer,Entry,PT,DE,S,100,15245.0
 2020,Data Scientist,Mid,FT,GB,S,100,73482.0
-2020,Data Engineer,Senior,FT,US,L,100,179509.0
+2020,Data Engineer,,FT,US,L,100,179509.0
 2020,Data Scientist,Mid,FT,US,L,100,100258.0
-2020,Data Engineer,Mid,FT,FR,L,50,66971.0
+2020,Data Engineer,Mid,FT,FR,L,,
 2020,Data Analyst,Entry,FT,IN,S,0,5798.0
 2020,Data Analyst,Entry,FT,US,L,100,86890.0
 2020,AI Scientist,Entry,FT,DK,S,50,43823.0
 2020,Data Engineer,Entry,FT,PK,L,100,52270.0
-2020,Computer Vision Engineer,Senior,FL,RU,S,100,57290.0
+,,Senior,FL,RU,S,100,57290.0
 2020,Principal Data Scientist,Senior,FT,DE,M,100,141565.0
-2020,Data Scientist,Mid,FT,ES,M,100,37025.0
+2020,Data Scientist,Mid,,,M,100,37025.0
 2020,Data Scientist,Mid,FT,US,M,100,112670.0
 2020,Data Scientist,Senior,FT,US,L,50,114580.0
 2020,Data Scientist,Mid,FT,US,M,100,132101.0
@@ -66,7 +66,7 @@ Working_Year,Designation,Experience,Employment_Status,Employee_Location,Company_
 2020,Machine Learning Engineer,Senior,FT,HR,S,100,43558.0
 2020,Data Scientist,Entry,FT,DE,S,50,59893.0
 2020,Data Scientist,Entry,FT,DE,S,0,47043.0
-2020,Data Science Manager,Senior,FT,US,M,100,181609.0
+2020,Data Science Manager,,FT,US,M,100,
 2020,Data Scientist,Entry,FT,US,S,100,100258.0
 2020,Data Scientist,Senior,FT,AT,S,0,87116.0
 2020,Data Scientist,Mid,FT,FR,S,50,59893.0
@@ -84,7 +84,7 @@ Working_Year,Designation,Experience,Employment_Status,Employee_Location,Company_
 2021,Applied Data Scientist,Mid,FT,GB,L,50,51788.0
 2021,Machine Learning Engineer,Mid,FT,ES,S,100,45146.0
 2021,Director of Data Science,Executive,FT,IT,L,100,146726.0
-2021,Data Engineer,Mid,FT,PL,L,100,27190.0
+2021,Data Engineer,Mid,FT,PL,L,,
 2021,Data Analyst,Entry,FT,FR,M,50,56433.0
 2021,Data Analytics Engineer,Mid,FT,US,L,100,105032.0
 2021,Lead Data Analyst,Senior,FT,US,L,100,162322.0
