@@ -1,17 +1,17 @@
 Working_Year,Designation,Experience,Employment_Status,Employee_Location,Company_Size,Remote_Working_Ratio,Salary_USD
 2020,Data Scientist,Mid,FT,DE,L,0,76227.0
-2020,Machine Learning Scientist,Senior,FT,JP,S,0,248257.0
+2020,Machine Learning Scientist,Senior,FT,JP,S,0
 2020,Big Data Engineer,Senior,FT,GB,M,50,104100.0
 2020,Product Data Analyst,Mid,FT,HN,S,0,19097.0
 2020,Machine Learning Engineer,Senior,FT,US,L,50,143225.0
 2020,Data Analyst,Entry,FT,US,L,100,68748.0
 2020,Lead Data Scientist,Senior,FT,US,S,100,181418.0
-2020,Data Scientist,Mid,FT,HU,L,50,34121.0
-2020,Business Data Analyst,Mid,FT,US,L,100,128903.0
+Data Scientist,Mid,FT,HU,L,50,34121.0
+2020,Business Data Analyst,Mid,FT,US,L,128903.0
 2020,Lead Data Engineer,Senior,FT,NZ,S,50,119354.0
 2020,Data Scientist,Entry,FT,FR,S,0,49003.0
 2020,Data Scientist,Mid,FT,IN,L,0,38653.0
-2020,Data Scientist,Entry,FT,FR,M,0,38113.0
+2020,Data Scientist,Entry,FT,FR,0,38113.0
 2020,Lead Data Analyst,Mid,FT,US,L,100,83071.0
 2020,Data Analyst,Mid,FT,US,L,100,81161.0
 2020,Data Analyst,Mid,FT,PK,L,50,7639.0
