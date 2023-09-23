@@ -6,7 +6,7 @@ Working_Year,Designation,Experience,Employment_Status,Employee_Location,Company_
 2020,Machine Learning Engineer,Senior,FT,US,L,50,143225.0
 2020,Data Analyst,Entry,FT,US,L,100,68748.0
 2020,Lead Data Scientist,Senior,FT,US,S,100,181418.0
-Data Scientist,Mid,FT,HU,L,50,34121.0
+,Data Scientist,Mid,FT,HU,L,50,34121.0
 2020,Business Data Analyst,Mid,FT,US,L,128903.0
 2020,Lead Data Engineer,Senior,FT,NZ,S,50,119354.0
 2020,Data Scientist,Entry,FT,FR,S,0,49003.0
