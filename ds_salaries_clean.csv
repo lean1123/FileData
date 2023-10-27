@@ -1,5 +1,6 @@
 Working_Year,Designation,Experience,Employment_Status,Employee_Location,Company_Size,Remote_Working_Ratio,Salary_USD
 <<<<<<< HEAD
+<<<<<<< HEAD
 2020,Data Scientist,Mid,FT,DE,L,0,76227.0
 2020,Machine Learning Scientist,Senior,FT,JP,S,0
 2020,Big Data Engineer,Senior,FT,GB,M,50,104100.0
@@ -608,6 +609,8 @@ Working_Year,Designation,Experience,Employment_Status,Employee_Location,Company_
 2022,Data Analyst,Senior,FT,US,M,100,143225.0
 2022,AI Scientist,Mid,FT,IN,L,100,190967.0
 =======
+=======
+>>>>>>> e827d95698cfcceb44aa8e455cb86289d8e6eada
 2020,Data Scientist,Mid,FT,DE,L,0,76227
 2020,Machine Learning Scientist,Senior,FT,JP,S,0,
 2020,Big Data Engineer,Senior,FT,GB,M,50,104100
@@ -1215,4 +1218,7 @@ Working_Year,Designation,Experience,Employment_Status,Employee_Location,Company_
 2022,Data Analyst,Senior,FT,US,M,0,123174
 2022,Data Analyst,Senior,FT,US,M,100,143225
 2022,AI Scientist,Mid,FT,IN,L,100,190967
+<<<<<<< HEAD
 >>>>>>> cca7a75 (add)
+=======
+>>>>>>> e827d95698cfcceb44aa8e455cb86289d8e6eada
